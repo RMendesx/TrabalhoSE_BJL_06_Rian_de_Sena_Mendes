@@ -16,7 +16,6 @@
 // Bibliotecas auxiliares personalizadas (display, LED, buzzer etc.)
 #include "lib/ssd1306.h"
 #include "lib/font.h"
-#include "lib/matriz_led.h"
 #include "lib/led.h"
 #include "lib/buzzer.h"
 
